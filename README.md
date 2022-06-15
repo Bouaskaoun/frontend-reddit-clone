@@ -1,4 +1,17 @@
-# FrontendRedditClone
+# Frontend-Reddit-Clone
+
+
+- Please feel free to contact me and check out more projects of mine: [Bouaskaoun](https://github.com/Bouaskaoun)
+
+## Context:
+
+This is a frontend reddit clone built using Angular.
+
+
+## source:
+
+- website source: https://www.reddit.com/
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
 
